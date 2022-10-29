@@ -1,0 +1,3 @@
+﻿  SFML.cpp
+C:\Users\Kevin\source\repos\SFML\SFML\Pollito.h(13,12): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+  SFML.vcxproj -> C:\Users\Kevin\source\repos\SFML\SFML\x64\Debug\SFML.exe
